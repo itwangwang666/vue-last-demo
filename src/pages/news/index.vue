@@ -4,10 +4,11 @@
       <van-tab title="精简">
         <ul>
           <li>
-            <img
+            <div><img
               src="https://m.360buyimg.com/mobilecms/s460x300_jfs/t1/28118/39/1575/79082/5c134fd0E1e067eba/9326c61dd9220629.jpg!q70.jpg"
               alt
-            >
+            ></div>
+            
             <div>
               <p>标题</p>
               <p>
@@ -17,10 +18,11 @@
             </div>
           </li>
           <li>
-            <img
+            <div><img
               src="https://m.360buyimg.com/mobilecms/s460x300_jfs/t1/28118/39/1575/79082/5c134fd0E1e067eba/9326c61dd9220629.jpg!q70.jpg"
               alt
-            >
+            ></div>
+            
             <div>
               <p>标题</p>
               <p>
