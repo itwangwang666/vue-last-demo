@@ -7,8 +7,8 @@ import store from './store'
 import './styles/common.css'
 
 //测试按需引入
-import { Button } from 'vant';
-Vue.use(Button)
+import { Tabbar, TabbarItem } from 'vant';
+Vue.use(Tabbar).use(TabbarItem)
 
 Vue.config.productionTip = false
 
